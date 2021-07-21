@@ -1,2 +1,2 @@
 # nycscertweb
-Webpage for Method lass
+Webpage for Method Class
